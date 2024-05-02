@@ -1,0 +1,1 @@
+https://azure.blob.core.windows.net
